@@ -10,7 +10,7 @@
 - Hibernate
 - Docker
  
-Бот размещен на сервере, так что любой желающий может пользоваться -> @cryptAides_bot
+Бот размещен на сервере, так что любой желающий может пользоваться -> https://t.me/cryptAides_bot
 
 
 
@@ -26,5 +26,5 @@ Technologies:
 - Hibernate
 - Docker
  
-The bot is hosted on a server, so anyone can use it -> @cryptAides_bot
+The bot is hosted on a server, so anyone can use it -> https://t.me/cryptAides_bot
  
