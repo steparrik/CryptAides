@@ -7,7 +7,7 @@
 
 Тезнологии:
 - Spring Boot
-- Hibernate
+- PostgreSQL
 - Docker
  
 Бот размещен на сервере, так что любой желающий может пользоваться -> https://t.me/cryptAides_bot
